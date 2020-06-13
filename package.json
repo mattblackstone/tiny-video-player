@@ -1,7 +1,10 @@
 {
   "name": "tiny-video-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, customizable, HTML5 video player with no dependencies",
+  "repository": "mattblackstone/tiny-video-player",
+  "homepage": "https://github.com/mattblackstone/tiny-video-player#readme",
+  "bugs": "https://github.com/mattblackstone/tiny-video-player/issues",
   "main": "./index.cjs",
   "exports": {
     "browser": "./index.js",
